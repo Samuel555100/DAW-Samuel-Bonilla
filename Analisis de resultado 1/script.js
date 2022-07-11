@@ -1,0 +1,10 @@
+document.write ("<header>Header</header>");
+document.write("<div class='contenedor'>");
+document.write ("<nav>Navigation</nav>");
+document.write("<div class='art'>");
+document.write ("<article>Article</article>");
+document.write ("<article>Article</article>");
+document.write ("<article>Article</article>");
+document.write("</div>");
+document.write("</div>");
+document.write ("<footer>Footer</foot>");
